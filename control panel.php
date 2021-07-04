@@ -116,19 +116,3 @@ echo '<script>
 
 </body>
 </html>
-<!--border-style: solid ;
-  border-width: medium;
-border-color: white;
-border-radius: 16px;
- box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
-
-//////////////////////////
-// if(isset($_POST["run"])){
-// 	$sql1 = "INSERT INTO run (run)
-//   VALUES (1)";
-//   $conn->exec($sql1);
-//  echo '<script>
-//         myFunction("robot arm is runing");
-//     </script>';
-// }
--->
